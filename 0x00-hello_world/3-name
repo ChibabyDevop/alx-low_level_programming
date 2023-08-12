@@ -1,4 +1,5 @@
 #!/bin/bash
-gcc -o cisfun $CFILE
+gcc -o cisfun $CFILE && ./cisfun
+
 
 
