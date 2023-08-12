@@ -1,5 +1,4 @@
 #!/bin/bash
-CFILE="main.c"
-OUTPUT="cisfu
-gcc -o $OUTPUT $CFILE
+gcc -o cisfun $CFILE
+
 
